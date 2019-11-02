@@ -1,0 +1,46 @@
+Alevel:
+About alevel, how do I take alevel, take alevel, what is alevel
+
+Response:
+A level is the main high school leaving qualification in the UK.
+For more info, please visit https://www.ucas.com/further-education/post-16-qualifications/qualifications-you-can-take/levels.
+
+
+===
+Preparation:
+How to apply, documents needed, documents used, what I need
+
+Response:
+You need high school qualifications to apply for an undergrad in the UK. Choose a course that your are interested in and apply through UCAS. For more information about UCAS, type "UCAS".
+You need to write a personal statement explaining your interest in the course. Don't forget to get a referee to support your application.
+
+
+===
+subject search guide:
+Apply .... Subjects
+
+Response:
+Let me give you a guide! 
+Go on to the university website and clicking the tab of undergraduate, list of courses from A-Z will surely appear!
+
+
+===
+Track:
+Track application, know decision, see the progress of application
+
+Response:
+You can check your application at UCAS Track https://track.ucas.com/
+You can see decisions made by the universities, and reply to any offers that you receive.
+Universities can issue conditional and unconditional offers. Conditional means that the offer has certain conditions that you still need to meet, while unconditional means that you have already met all the entry requirements.
+
+
+===
+med_test:
+Ukcat, medicine, health
+
+Response:
+Applying for medicine requires you to take MCAT/UKCAT/BMAT tests for admission.
+These tests test your cognitive abilities, attitude and so on. Each test is different in their own way, so be sure to check which test you are supposed to sit for.
+Here are the links that might help you...
+BMAT: https://www.admissionstesting.org/for-test-takers/bmat/
+UKCAT: https://www.ucat.ac.uk/
