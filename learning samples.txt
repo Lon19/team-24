@@ -1,0 +1,144 @@
+Intents
+
+Greeting:
+Hello, hi, hey
+
+Response:
+Hi! What can I help you?
+
+===
+Location(country):
+UK, United Kingdom, Britain,(maybe US)
+
+Response:
+UK? Great place to go. Here are top uni in UK! 
+https://www.ukuni.net/universities
+
+===
+Location(city):
+London
+
+Response:
+London? Here is a list of great uni in London! 
+https://www.topuniversities.com/where-to-study/europe/united-kingdom/top-10-universities-london
+
+
+===
+Entry requirements:
+Entry requirements, grade, grades, qualification, qualifications
+
+Response:
+Want to check the entry requirements of universities?
+One efficient way is go on the website and search "subject you want to learn + university you want to apply" and you will find out it easily!
+
+
+===
+Exams:
+Alevel, UCAS point, International Baccalaureate, ib
+
+Response:
+Here is the UCAS point table where you can transfer all different types of exam board into a uniform grade.
+https://en.wikipedia.org/wiki/UCAS_Tariff
+
+
+===
+PS:
+Personal statement, ps
+
+Response:
+Here are the guilds may help you with your personal statement...
+Have a look at the official advices given by UCAS about the structures and contents uni respect for a personal statement: https://www.ucas.com/undergraduate/applying-university/how-write-ucas-undergraduate-personal-statement
+You may also grab some ps samples from this website according to different subjects! 
+https://universitycompare.com/personal-statement-examples/
+
+
+===
+Admission test:
+Admission test, test, tests
+
+Response:
+In UK, only three uni requires admission test (except Medicine).
+Those are Oxford (http://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/admissions-tests); 
+Cambridge (https://www.admissionstesting.org/); 
+Imperial College, (https://www.imperial.ac.uk/study/ug/apply/selection/admissions-tests/);
+If you are a medicine student, enter "medicine admission test" for more information.
+
+
+===
+Med test:
+Medicine, med, med test, med admission test, medicine admission test, health professional
+
+Response:
+Applying medicine requires taking tests MCAT/UKCAT for admission.
+Here are the links that might help you...
+BMAT: https://www.admissionstesting.org/for-test-takers/bmat/
+UKCAT: https://www.ucat.ac.uk/
+
+
+===
+uni life:
+uni life, college life, college lives, uni lives, life
+
+Response:
+Looking forward to start your college life? Check and see what will lives in uni looks like!
+https://www.thestudentroom.co.uk/content.php?r=26960-What-university-is-really-like
+
+
+===
+College info(Oxford):
+Oxford college, ox college, Oxford colleges, ox colleges
+
+Response:
+Here are lists of student experiences in different colleges from Oxford! (Link)
+https://www.thestudentroom.co.uk/wiki/Oxford_College_Pros_and_Cons
+
+
+===
+College info(Cambridge):
+Cambridge college, cam college, Cambridge colleges, cam colleges
+
+Response:
+Here are lists of student experiences in different colleges from Cambridge! 
+https://www.thestudentroom.co.uk/wiki/Cambridge_College_Pros_and_Cons
+
+
+===
+Finance support:
+student loan, loan, finance support, financing, finance
+
+Response:
+The student loan supported by the UK GOV might help you!!
+https://www.gov.uk/student-finance
+
+
+===
+Course:
+Course, subject, major
+
+Response:
+Take a look at this website for suggestions of choosing a subject! 
+https://www.thecompleteuniversityguide.co.uk/courses
+If you also go online and search for "course + (uni name)", you can also grab many useful information from the university website!
+
+
+===
+Language requirements:
+International, language, IELTS, TOFEL
+
+Response:
+If you are an international student, language qualification is required.
+You can take IELTS, TOFEL, Cambridge English and etc.
+More information can be found by googling "language requirements + (uni name)"
+
+
+===
+UCAS:
+UCAS, application, apply, uk application, uk apply
+
+Response:
+UCAS is the official system for UK college application. Do you need a guide helping you to fill up a UCAS application?
+Here is what may be helpful!
+https://www.ucas.com/undergraduate/applying-university/filling-your-ucas-undergraduate-application
+
+
+
