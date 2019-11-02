@@ -1,0 +1,113 @@
+Intents
+
+Greeting:
+Hello, hi, hey
+
+Response:
+Hi! What can I help you?
+
+===
+Location(country):
+UK, United Kingdom, Britain,(maybe US)
+
+Response:
+UK? Great place to go. Here are top 10 uni in UK! link
+
+===
+Location(city):
+London
+
+Response:
+London? Here is a list of great uni in London! link
+
+
+===
+Entry requirements:
+Entry requirements, grade, grades, qualification, qualifications
+
+Response:
+What type of exams do you take? (i.e. Alevels, IB, AP etc.)
+
+
+===
+Exams(alevel):
+Alevel
+
+Response:
+
+
+===
+PS:
+Personal statement, ps
+
+Response:
+
+
+===
+Admission test:
+Admission test, test, tests, MAT, PAT,
+
+Response:
+In UK, only three uni requires admission test.
+Those are Oxford (link); Cambridge (link); Imperial College, mathematics ONLY(link)
+
+
+===
+Cambridge uni life:
+Cambridge life, cam life, cam lives, Cambridge lives
+
+Response:
+
+
+===
+College info(Oxford):
+Oxford college, ox college, Oxford colleges, ox colleges
+
+Response:
+Here are lists of student experiences in different colleges from Oxford! (Link)
+
+
+===
+College info(Cambridge):
+Cambridge college, cam college, Cambridge colleges, cam colleges
+
+Response:
+Here are lists of student experiences in different colleges from Cambridge! (Link)
+
+
+===
+Finance support:
+student loan, loan, finance support, financing, finance
+
+Response:
+The student loan supported by the UK GOV might help you!!
+
+
+===
+Course:
+Course, subject, major
+
+Response:
+
+
+===
+Language requirements:
+International, language, IELTS, TOFEL
+
+Response:
+If you are an international student, language qualification is required.
+You can take IELTS, TOFEL, Cambridge English and etc.
+More information can be found by googling "language requirements + (uni name)"
+
+
+===
+UCAS:
+UCAS, application, apply, uk application, uk apply
+
+Response:
+UCAS is the official system for UK college application. Do you need a guide helping you to fill up a UCAS application?
+Here is what may be helpful!
+(Link)
+
+
+
